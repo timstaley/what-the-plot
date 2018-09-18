@@ -1,0 +1,9 @@
+jupyter
+matplotlib
+scikit-learn
+holoviews
+bokeh
+seaborn
+pandas
+plotly
+
